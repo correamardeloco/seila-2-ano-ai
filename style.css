@@ -1,3 +1,9 @@
+body {
+    font-family: 'Poppins',sans-serif;
+
+}
+
+
 header{
     background-color: crimson;
     color: black;
@@ -17,6 +23,6 @@ header{
 
 .cabecalho-lista-item{
 
-
+display: inline-block;
 
 }
